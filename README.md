@@ -1,5 +1,6 @@
-# Basic implementation for Keycloak rolebased user federation
-### Role-based user federation for Keykcloak using Mariadb and Mysql.
+# Basic implementation for Keycloak role-based user federation
+
+### Role-based user federation for Keykcloak using Mariadb and Mysql:
 
 This implementation is based on [https://github.com/kyrcha/keycloak-mysql-user-federation#readme](kychra-user-federation).
 For installation process follow the link. For database table creation <ins>*mysql-scripts.txt* </ins> can be used.
