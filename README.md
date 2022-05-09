@@ -1,2 +1,2 @@
-# keycloak-mariadb-rolebased-user-federation
-Role-based user federation for Keykcloak on Mariadb and Mysql.
+# Basic implementation for Keykloak user federation
+Role-based user federation for Keykcloak using Mariadb and Mysql.
